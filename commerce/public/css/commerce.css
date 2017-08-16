@@ -1,0 +1,21 @@
+#main{
+	margin-bottom: 20px;
+}
+
+.product-div{
+
+	height: 100px;
+	padding: 5px;
+}
+.intern-div{
+	height: 100%;
+	border: 1px solid #cf2a27;
+}
+.img-product{
+	width: 100%;
+}
+
+.panel-order{
+
+	height: 200px !important;
+}

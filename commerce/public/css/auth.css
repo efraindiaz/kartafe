@@ -1,0 +1,15 @@
+.container-auth{
+	background-color: white;
+	margin-top: 50px;
+}
+.panel-header{
+	background-color: #cf2a27;
+	color: white;
+	font-weight: bold;
+}
+.page-header{
+	vertical-align: center;
+}
+.row-inputs{
+	margin-top: 40px !important;
+}
